@@ -23,7 +23,7 @@ h1 {
 }
 h2{
   position: absolute;
-  /* margin: 11px; */
+  margin: 0px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
   font-size:3rem;
